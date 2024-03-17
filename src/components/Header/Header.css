@@ -1,0 +1,27 @@
+.logo{
+    width: 120px;
+    height: 70px;
+    
+}
+
+.Header{
+    margin: 20px;
+    display: flex;
+}
+
+.btn{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+}
+
+.btn_all{
+    margin-left: 500px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; 
+    align-items: center;   
+}
